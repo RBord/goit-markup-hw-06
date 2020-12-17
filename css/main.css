@@ -582,6 +582,7 @@ footer .link {
 }
 .footer-form .form-button {
     display: inline-flex;
+    margin-left: 12px;
 }
 .form-icon {
     overflow: visible;
